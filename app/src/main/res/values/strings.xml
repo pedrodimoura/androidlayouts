@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="activity_linear_layout">Linear Layout</string>
+    <string name="activity_relative_layout">Relative Layout</string>
+    <string name="activity_frame_layout">Frame Layout</string>
+    <string name="activity_scroll_view">Scroll View</string>
+
+    <string name="button_linear_layout">Linear Layout</string>
+    <string name="button_relative_layout">Relative Layout</string>
+    <string name="button_frame_layout">Frame Layout</string>
+    <string name="button_scroll_view">Scroll View</string>
+
+    <string name="content_description_android">Android Logo</string>
+    <string name="text_view_android">ANDROID</string>
+    <string name="text_view_card_view">CardView</string>
+
+    <string name="snackbar_message">This is a Snackbar :)</string>
+</resources>
